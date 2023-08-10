@@ -1,4 +1,1 @@
-this is the line one 
-this is the line two
-this is the line three
-test line 4
+this is the test pragraph to test basics of both git and to learn work with git hub
